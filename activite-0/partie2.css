@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(167, 167, 63);
+}
+h1{
+    text-align: center;    
+}
+img{
+    width: 200px;
+}
+p{
+    font-style: italic;
+}

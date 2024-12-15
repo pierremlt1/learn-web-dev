@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+}
+h1{
+    font-style: italic;
+}
+h2{
+    font-family: 'Courier New', Arial, sans-serif;
+}
+h3{
+    font-weight: lighter;
+}
+h4{
+    font-weight: bold;
+}
+h5{
+    color: aliceblue;
+}
+h6{
+    font-size: 30px;
+}
+p{
+    text-align: center;
+}
