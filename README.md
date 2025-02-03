@@ -5,7 +5,7 @@
 
 ## Présentation
 
-:wave: **Bienvenu !**
+:wave: **Bienvenue !**
 A travers les différentes activités vous allez **apprendre les bases pour débuter dans le développement web**. Dans chaque activité vous allez apprendre les bases petit à petit à votre rythme. **Chaque activité sera guider** pour ne pas vous laisser seul! Le but est que vous puissiez tout apprendre sans avoir besoin d'internet, tout se trouve dans les fichiers de codes sources en commentaire, dans les anciennes activités et surtout dans [ce fichier](#apprendre-le-developpement-web) que vous devrez utiliser pour avoir la consigne, information, etc... (de l'activité en question).
 
 ---
